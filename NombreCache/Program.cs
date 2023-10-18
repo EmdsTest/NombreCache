@@ -8,6 +8,7 @@ namespace NombreCache
         {
             int valeur = 0, essai = 0, nb = 1;
             bool correct = false;
+            // ajout d'un commentaire
             while (!correct)
             {
                 try
